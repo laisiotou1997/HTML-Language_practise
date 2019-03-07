@@ -1,0 +1,65 @@
+/*
+;|**********************************************************************;
+;* Project           : Basic_HTML
+;*
+;* Program name      : basicHtmlCss.css
+;*
+;* Author            : SIO TOU LAI (laisiotou1997@gmail.com)
+;*
+;* Date created      : 07/03/2019
+;*
+;* Version           : Internal
+;*
+;* Copyright         : GNU GENERAL PUBLIC LICENSE Version 3
+;*
+;* Purpose           : Week 5 - CSS Intro_BHI
+;*
+;* Revision History  :
+;*
+;* Date        Author      Ref    Revision (Date in DDMMYYYY format)
+;* 07032019    lst97       1      First release
+;*
+;* Known Issue       :
+;*
+;|**********************************************************************;
+*/
+
+/* s10000399 */
+
+html{
+	background-color: #00bfff;
+}
+
+#headTitle{
+	color: yellow;
+	text-align: center;
+	font-size: 50px;
+	font-style: italic;
+	letter-spacing: 8px;
+	line-height: 64px;
+	padding-bottom: 64px;
+	border-style: solid; color: yellow;
+}
+
+#pOne{
+	color: red;
+	text-align: justify;
+	border-style: solid;
+	border-color: blue;
+	font-family: "Comic Sans MS", Times, Monospace;
+	padding-bottom: 64px;
+}
+
+#pTwo{
+	color: white;
+	text-align: justify;
+	border-style: solid;
+	border-color: blue;
+	font-family: "Comic Sans MS", Times, Monospace;
+	padding-bottom: 64px;
+}
+
+#aGoogle:link{color: white;}
+#aGoogle:visited{color: black;}
+#aGoogle:hover{color: purple;}
+#aGoogle:active{color: black;}
