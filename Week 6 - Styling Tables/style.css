@@ -24,6 +24,10 @@
 	border-style: solid;
 }
 
+.pokedex1Title:hover{
+	background-color: yellow;
+}
+
 .pokedex2{
 	border: 1px solid green;
 	float: right;
@@ -34,6 +38,9 @@
 .pokedex2Title{
 	font-weight: bold;
 	border-style: solid;
+}
+.pokedex2Title:hover{
+	background-color: yellow;
 }
 
 /* footer */
