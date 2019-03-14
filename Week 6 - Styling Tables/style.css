@@ -1,0 +1,68 @@
+/*CSS StyleSheet*/
+.header{
+	text-align: center;
+	border: 1px solid blue;
+}
+.title{
+	text-align: center;
+	border: 1px solid black;
+	
+}
+/* table */
+.pokedex1{
+	border: 1px solid red;
+	float: left;
+	text-align: center;
+	border-collapse: collapse;
+	width: 40%;
+}
+.pokedex1, th, td {
+  border: 1px solid black;
+}
+.pokedex1Title{
+	font-weight: bold;
+	border-style: solid;
+}
+
+.pokedex2{
+	border: 1px solid green;
+	float: right;
+	text-align: center;
+	border-collapse: collapse;
+	width: 40%;
+}
+.pokedex2Title{
+	font-weight: bold;
+	border-style: solid;
+}
+
+/* footer */
+.footer{
+	text-align: center;
+	border: 1px solid blue;
+	clear: both;
+	margin: 32px 0px 0px 0px;
+}
+
+/* BGColor */
+.typeGrass{
+	background-color: green;
+}
+.typePoison{
+	background-color: purple;
+}
+.typeFire{
+	background-color: red;
+}
+.typeFlying{
+	background-color: gray;
+}
+.typeWater{
+	background-color: rgb(0, 128, 255);
+}
+.typePsychic{
+	background-color: rgb(255, 0, 255);
+}
+.typeIce{
+	background-color: rgb(0, 255, 255)
+}
