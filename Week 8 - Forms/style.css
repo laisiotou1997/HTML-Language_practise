@@ -1,0 +1,16 @@
+div.leftDiv{
+	display: block;
+	float: left;
+	width: 49%;
+	border: 2px solid red;
+	border-radius: 5px;
+}
+
+div.rightDiv{
+	display: block;
+	float: right;
+	text-align: left;
+	width: 49%;
+	border: 2px solid red;
+	border-radius: 5px;
+}
